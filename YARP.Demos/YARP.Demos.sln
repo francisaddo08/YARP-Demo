@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YARP", "YARP", "{7CBE994F-41BD-4692-944C-20A0F7A025B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YARP.As.Migration", "YARP.As.Migration\YARP.As.Migration.csproj", "{7DAF3AA6-0A93-4DD7-985B-8FC8B3B86375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DAF3AA6-0A93-4DD7-985B-8FC8B3B86375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAF3AA6-0A93-4DD7-985B-8FC8B3B86375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAF3AA6-0A93-4DD7-985B-8FC8B3B86375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAF3AA6-0A93-4DD7-985B-8FC8B3B86375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7DAF3AA6-0A93-4DD7-985B-8FC8B3B86375} = {7CBE994F-41BD-4692-944C-20A0F7A025B9}
+	EndGlobalSection
+EndGlobal
